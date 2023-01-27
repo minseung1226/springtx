@@ -18,7 +18,7 @@ class OrderServiceTest {
     @Autowired OrderRepository repository;
 
     @Test
-    void order() throws NotEnoughtMoneyException {
+    void complate() throws NotEnoughtMoneyException {
         Order order=new Order();
         order.setUsername("정상");
 
