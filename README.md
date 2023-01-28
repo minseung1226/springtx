@@ -20,10 +20,3 @@
     <li>트랜잭션 전파 커밋과롤백</li>
     <li>복구 REQUIRES_NEW</li>
   </ul>
-  
-<h3></h3>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
